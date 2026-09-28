@@ -1,6 +1,6 @@
 # companion-module-studio-dmx
 
-[Bitfocus Companion](https://bitfocus.io/companion) module for [Studio DMX](https://github.com/studioenfuego/studio-dmx) — a browser-based DMX lighting controller.
+[Bitfocus Companion](https://bitfocus.io/companion) module for **[Studio DMX](https://github.com/studioenfuego/studio-dmx)** — an open-source, browser-based DMX lighting controller for real studio use. Control fixtures over Art-Net or USB from any device on your network.
 
 ## Features
 
@@ -11,7 +11,7 @@
 
 ## Requirements
 
-- [Studio DMX](https://github.com/studioenfuego/studio-dmx) running on your local network
+- **[Studio DMX](https://github.com/studioenfuego/studio-dmx)** running on your local network — see its README for setup instructions
 - Bitfocus Companion 5.x
 
 ## Connection Setup
